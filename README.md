@@ -45,11 +45,11 @@ Here are some ideas to get you started:
     <a> <img src="https://raw.githubusercontent.com/BitzyG/BitzyG/3f9e5eec0cb421062fbb96e567d91e99267f3368/bootstrap.svg" width="40" height="40"/></a>    
  </p>
  
- <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitzyG&langs_count=10&theme=panda&layout=compact">
- </p>
-
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=BitzyG&show_icons=true&theme=panda"/>
 </p>
 
+ <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitzyG&langs_count=10&theme=panda&layout=compact">
+ </p>
+ 
