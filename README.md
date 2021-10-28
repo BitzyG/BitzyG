@@ -17,7 +17,10 @@ Here are some ideas to get you started:
 
 <h1 align="center">Itzel Andrea González Valecillos (Bitzy)</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23B6135C&size=25&center=true&vCenter=true&lines=Front-end+Developer;Architect;Animal+Lover+)](https://git.io/typing-svg)
+ <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23B6135C&size=25&center=true&vCenter=true&lines=Front-end+Developer;Architect;Animal+Lover+)](https://git.io/typing-svg"/>
+</p>
+
 
 <p align="center"><img src="https://profile-counter.glitch.me/{BitzyG}/count.svg"></p>
 
@@ -43,7 +46,7 @@ Here are some ideas to get you started:
  </p>
  
  <p align="center">
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BitzyG&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitzyG&langs_count=10&theme=panda&layout=compact">
 </p>
 
 <p align="center">
