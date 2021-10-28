@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 
 <h1 align="center">Itzel Andrea González Valecillos (Bitzy)</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23B6135C&size=25&lines=Front-end+Developer;Architect;Animal+Lover+)](https://git.io/typing-svg)
+<p align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23B6135C&size=25&lines=Front-end+Developer;Architect;Animal+Lover+)](https://git.io/typing-svg)</p>
+
 
 <p align="center"><img src="https://profile-counter.glitch.me/{BitzyG}/count.svg"></p>
 
@@ -41,3 +42,12 @@ Here are some ideas to get you started:
     <a> <img src="https://raw.githubusercontent.com/BitzyG/BitzyG/3f9e5eec0cb421062fbb96e567d91e99267f3368/vscode.svg" width="40" height="40"/> </a>
     <a> <img src="https://raw.githubusercontent.com/BitzyG/BitzyG/3f9e5eec0cb421062fbb96e567d91e99267f3368/bootstrap.svg" width="40" height="40"/></a>    
  </p>
+ 
+ <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitzyG&langs_count=10&theme=panda&layout=compact">
+</p>
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=BitzyG&show_icons=true&theme=panda"/>
+</p>
+
