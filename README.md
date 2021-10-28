@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Itzel Andrea González Valecillos (Bitzy)</h2>
+<h1 align="center">Itzel Andrea González Valecillos (Bitzy)</h1>
 
-<h3 align="center"> Arquitecto <br> Frontend Developer</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23B6135C&size=25&lines=Front-end+Developer;Architect;Animal+Lover+)](https://git.io/typing-svg)
 
 <p align="center"><img src="https://profile-counter.glitch.me/{BitzyG}/count.svg"></p>
 
