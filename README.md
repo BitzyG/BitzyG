@@ -17,8 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Itzel Andrea González Valecillos (Bitzy)</h1>
 
-<p align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23B6135C&size=25&lines=Front-end+Developer;Architect;Animal+Lover+)](https://git.io/typing-svg)</p>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23B6135C&size=25&center=true&vCenter=true&lines=Front-end+Developer;Architect;Animal+Lover+)](https://git.io/typing-svg)
 
 <p align="center"><img src="https://profile-counter.glitch.me/{BitzyG}/count.svg"></p>
 
