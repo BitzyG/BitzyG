@@ -51,7 +51,9 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api?username=BitzyG&show_icons=true&theme=panda"/>
 </p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BitzyG&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+ <img src="https://github-readme-stats.vercel.app/api?username=BitzyG&langs_count=10&theme=panda&layout=compact">
 <!--  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitzyG&langs_count=10&theme=panda&layout=compact">
  </p> -->
