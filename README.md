@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://profile-counter.glitch.me/{BitzyG}/count.svg"></p>
 
-<br>
-
 <h3 align="center">Technologies I use and keep learning</h3>
 
 <br>
@@ -46,6 +44,8 @@ Here are some ideas to get you started:
     <a> <img src="https://raw.githubusercontent.com/BitzyG/BitzyG/3f9e5eec0cb421062fbb96e567d91e99267f3368/vscode.svg" width="40" height="40"/> </a>
     <a> <img src="https://raw.githubusercontent.com/BitzyG/BitzyG/3f9e5eec0cb421062fbb96e567d91e99267f3368/bootstrap.svg" width="40" height="40"/></a>    
  </p>
+ 
+ <br>
  
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=BitzyG&show_icons=true&theme=panda"/>
