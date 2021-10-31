@@ -58,6 +58,6 @@ Here are some ideas to get you started:
  
  <h2 align="left">📫 Reach me on</h2>
 <p align="center">
-  <a target="_blank"href="www.linkedin.com/in/itzel-andrea-gonzalez-72308212a"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/itzel-andrea-gonzalez-72308212a"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
   <a href="mailto:gv.itzelandrea@gmail.com?subject=Hello%20Pamela,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
 </p>
