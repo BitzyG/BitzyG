@@ -51,7 +51,6 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api?username=BitzyG&show_icons=true&theme=panda"/>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitzyG">
 <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=BitzyG&repo=github-readme-stats"> PARA DESTACAR REPOS-->
 <!--  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitzyG&langs_count=10&theme=panda&layout=compact">
