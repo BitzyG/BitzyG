@@ -52,7 +52,7 @@ Here are some ideas to get you started:
  <p align="center">
 <!--       <img src="https://github-readme-stats.vercel.app/api/top-langs/?BitzyG=anuraghazra&layout=panda)"> -->
 <!--       <img src="https://github-readme-stats.vercel.app/api/top-langs/?BitzyG=anuraghazra&layout=panda"> -->
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?BitzyG=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BitzyG&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
  </p>
  
