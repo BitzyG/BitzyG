@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 <h3 align="center">Technologies I use and keep learning</h3>
 
+<br>
+
 <p align="center">
     <a> <img src="https://raw.githubusercontent.com/BitzyG/BitzyG/3f9e5eec0cb421062fbb96e567d91e99267f3368/javascript.svg" width="40" height="40"/> </a>
     <a> <img src="https://raw.githubusercontent.com/BitzyG/BitzyG/3f9e5eec0cb421062fbb96e567d91e99267f3368/html5.svg" width="40" height="40"/> </a>
@@ -49,10 +51,9 @@ Here are some ideas to get you started:
     <img src="https://github-readme-stats.vercel.app/api?username=BitzyG&show_icons=true&theme=panda"/>
 </p>
 
- <p align="center">
-<!--       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitzyG&layout=compat&theme=panda"> -->
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitzyG&langs_count=10&theme=panda&layout=compact">
- </p>
+<!--  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitzyG&langs_count=10&theme=panda&layout=compact">
+ </p> -->
  
  <h2 align="left">📫 Reach me on</h2>
 <p align="center">
